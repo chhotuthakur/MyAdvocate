@@ -5,4 +5,6 @@
     <string name="create_new">Register New Account</string>
     <string name="prompt_email">Email Address</string>
     <string name="creator">This app is created By Nilesh Singh Dahiya \n for Our Advocates that are providing our justice with their Best ❤</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
