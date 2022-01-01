@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAdvocate</string>
+    <string name="prompt_password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_new">Register New Account</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="creator">This app is created By Nilesh Singh Dahiya \n for Our Advocates that are providing our justice with their Best ❤</string>
+</resources>
