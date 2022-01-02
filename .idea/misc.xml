@@ -5,6 +5,12 @@
       <map>
         <entry key="..\:/Android Projects/MyAdvocate/app/src/main/res/drawable/bg_circle.xml" value="0.2203125" />
         <entry key="..\:/Android Projects/MyAdvocate/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Android Studio Projects/MyAdvocate/app/src/main/res/drawable/bg_round_corner.xml" value="0.19479166666666667" />
+        <entry key="..\:/Android Studio Projects/MyAdvocate/app/src/main/res/layout/activity_home.xml" value="0.16458333333333333" />
+        <entry key="..\:/Android Studio Projects/MyAdvocate/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Android Studio Projects/MyAdvocate/app/src/main/res/layout/fragment_case.xml" value="0.1" />
+        <entry key="..\:/Android Studio Projects/MyAdvocate/app/src/main/res/layout/fragment_home.xml" value="0.17864583333333334" />
+        <entry key="..\:/Android Studio Projects/MyAdvocate/app/src/main/res/menu/bottom_menu.xml" value="0.17864583333333334" />
       </map>
     </option>
   </component>
